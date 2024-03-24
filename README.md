@@ -13,7 +13,7 @@ https://github.com/Agathon006/Native_JS_project/assets/64129058/cb137907-f59e-49
 
 ---
 
-## Instruction for launching this project
+## Instruction for launching
 
 1. Install all needed dependencies:
    `npm install`
@@ -23,7 +23,7 @@ https://github.com/Agathon006/Native_JS_project/assets/64129058/cb137907-f59e-49
 
 ---
 
-## Technologies used in the project
+## Technologies 
 
 - HTML
 - CSS
@@ -33,7 +33,6 @@ https://github.com/Agathon006/Native_JS_project/assets/64129058/cb137907-f59e-49
 - Async / Await
 - GET / POST / PUT / DELETE methods
 - LocalStorage
-- Modules
-- Imports / Exports
+- Modules (Imports / Exports)
 - Webpack 
 - Babel
